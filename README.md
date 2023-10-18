@@ -1,0 +1,2 @@
+# curiousTest
+test vue3
